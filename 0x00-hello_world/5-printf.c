@@ -1,14 +1,16 @@
-#include <stdio>
-int main (void)
+#include <stdio.h>
+ 
+ 
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+ 
+int main(void)
 {
-	char c;
-	int i;
-	long int long i;
-	long long int lx2_i;
-	float f;
-	printf("size of char: %lu byte(s) \n", (unsigned long) size of (c));
-	printf("size of char: %lu byte(s) \n", (unsigned long) size of (c));
-	printf("size of char: %lu byte(s) \n", (unsigned long) size of (c));
-	printf("size of char: %lu byte(s) \n", (unsigned long) size of (c));
-	printf("size of char: %lu byte(s) \n", (unsigned long) size of (c));
+printf("with proper grammar, but the outcome is a piece of art,\n");
+ 
+return (0);
+}
 
